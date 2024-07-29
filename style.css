@@ -1,0 +1,11 @@
+@import url("https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,100..900;1,100..900");
+
+/* To change specicif part of the chatbot */
+/* .vfrc-assistant-info--title{
+  --fonts-default: 'Sevillana', cursive;
+}
+ */
+/* To Change all*/
+:host{
+  --fonts-default: 'Montserrat';
+}
